@@ -267,24 +267,6 @@ pytest tests/
 
 ---
 
-## 🚀 Deployment
-
-**Backend (Render)**
-
-* Push repo to GitHub
-* Create Render Web Service
-* Build command: `pip install -r requirements.txt`
-* Start command: `gunicorn -w 4 -b 0.0.0.0:$PORT app.main:app`
-* Env vars: `MONGODB_URI`, `OPENAI_API_KEY` (for future AI features)
-
-**Frontend (Vercel)**
-
-* Import repo in Vercel
-* Set `REACT_APP_API_BASE=<your-render-url>`
-* Enable auto-deploy on push
-
----
-
 ## 📊 Project Stats
 
 * Frontend: ~500 lines of React
@@ -350,5 +332,6 @@ MIT License — see `LICENSE` file for details.
 **GitHub:** https://github.com/KondamPravalikaReddy
 
 For support or feedback, open an issue on GitHub or contact the author via email.
+
 
 
