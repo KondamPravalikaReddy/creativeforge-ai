@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 SMBs running retail campaigns on marketplaces and social platforms need many creatives per campaign. CreativeForge AI solves this by combining a visual canvas builder with an AI-driven compliance engine so teams can produce high-quality, guideline-compliant creatives quickly and affordably.
 
@@ -22,13 +22,13 @@ SMBs running retail campaigns on marketplaces and social platforms need many cre
 
 **Impact**
 
-* ⏱️ 10× faster: 3 hours → 5 minutes per creative
-* 💰 90% cost savings: ₹25,000 → ₹2,500/month
-* ✅ 95%+ first-time approval rate
+*  10× faster: 3 hours → 5 minutes per creative
+*  90% cost savings: ₹25,000 → ₹2,500/month
+*  95%+ first-time approval rate
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 ### Visual Canvas Builder
 
@@ -37,14 +37,14 @@ SMBs running retail campaigns on marketplaces and social platforms need many cre
 * Real-time canvas preview and resizing
 * Platform format presets (Instagram 1080×1080, Facebook 1200×630, LinkedIn 1200×627)
 
-### 🤖 AI-Driven Compliance Engine
+###  AI-Driven Compliance Engine
 
 * Validates creatives against retailer guidelines
 * Checks for product image presence, text coverage, safe zones, layout rules
 * Numeric compliance score (0–100) with color-coded status
 * Hard violations and soft warnings, plus remedial suggestions
 
-### 💡 Smart Guidance
+###  Smart Guidance
 
 * Quick-start help guide
 * AI tips for better visual performance (eye flow, contrast, readability)
@@ -57,7 +57,7 @@ SMBs running retail campaigns on marketplaces and social platforms need many cre
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 **Frontend**
 
@@ -84,7 +84,7 @@ SMBs running retail campaigns on marketplaces and social platforms need many cre
 
 ---
 
-## 🏛 Architecture
+##  Architecture
 
 ```
 text
@@ -110,7 +110,7 @@ text
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -161,7 +161,7 @@ Frontend will open on: `http://localhost:3000`
 
 ---
 
-## 📖 Usage Guide — Create a Compliant Creative (5 steps)
+##  Usage Guide — Create a Compliant Creative (5 steps)
 
 1. **Select Platform Format** — Instagram (1080×1080), Facebook (1200×630), LinkedIn (1200×627)
 2. **Enter Offer** — Type headline (max 60 chars, counter visible)
@@ -176,7 +176,7 @@ Frontend will open on: `http://localhost:3000`
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### `GET /health`
 
@@ -249,7 +249,7 @@ Validates a creative against guidelines.
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 **Frontend**
 
@@ -267,7 +267,7 @@ pytest tests/
 
 ---
 
-## 📊 Project Stats
+##  Project Stats
 
 * Frontend: ~500 lines of React
 * Backend: ~200 lines of Flask + compliance engine
@@ -276,14 +276,14 @@ pytest tests/
 
 ---
 
-## 🎯 Roadmap
+##  Roadmap
 
 **Phase 1 — MVP (current)**
 
-* Visual canvas builder ✅
-* Core compliance engine ✅
-* Multi-format support ✅
-* Real-time validation ✅
+* Visual canvas builder 
+* Core compliance engine 
+* Multi-format support 
+* Real-time validation 
 
 **Phase 2 — Next**
 
@@ -301,7 +301,7 @@ pytest tests/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions!
 
@@ -315,13 +315,13 @@ Please follow the issue/PR templates and write clear commit messages.
 
 ---
 
-## 📝 License
+##  License
 
 MIT License — see `LICENSE` file for details.
 
 ---
 
-## 🎤 Authors & Support
+##  Authors & Support
 
 **Author:** Kondam Pravalika Reddy
 
@@ -331,7 +331,7 @@ MIT License — see `LICENSE` file for details.
 
 **GitHub:** https://github.com/KondamPravalikaReddy
 
-For support or feedback, open an issue on GitHub or contact the author via email.
+
 
 
 
