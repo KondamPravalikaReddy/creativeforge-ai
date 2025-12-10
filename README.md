@@ -74,14 +74,11 @@ SMBs running retail campaigns on marketplaces and social platforms need many cre
 **Compliance Engine**
 
 * Rule-based validation (extensible to GPT-4 Vision)
-* MongoDB-ready guideline store (optional)
 
 **Deployment**
 
 * Frontend: Vercel / Netlify
 * Backend: Render / Heroku
-* Gunicorn for production
-
 ---
 
 ##  Architecture
@@ -171,8 +168,8 @@ Frontend will open on: `http://localhost:3000`
 
 **Example flows**
 
-* Non-compliant (no product image): Score ~70/100, violation `no_product_image` → fix by uploading product image
-* Compliant (image + headline): Score ~95/100 → Ready for Campaign
+* Non-compliant (no product image): Score ~85/100, violation `no_product_image` → fix by uploading product image
+* Compliant (image + headline): Score ~100/100 → Ready for Campaign
 
 ---
 
@@ -330,6 +327,7 @@ MIT License — see `LICENSE` file for details.
 **Email:** [[kpravalikareddy68@gmail.com](mailto:kpravalikareddy68@gmail.com)]
 
 **GitHub:** https://github.com/KondamPravalikaReddy
+
 
 
 
